@@ -1,4 +1,4 @@
-# RESUME-projects
+# Resume-Projects
 
 DATA SCEICNE PROJECTS
 
